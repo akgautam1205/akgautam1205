@@ -1,4 +1,4 @@
-````md
+
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Gautam</h1>
@@ -56,7 +56,7 @@ my skills in SQL, Python, Excel, Power BI and statistics.
 
 ## 🔎 My Data Analytics Workflow
 
-```text
+``
               ┌─────────────────┐
               │   Raw Data      │
               └────────┬────────┘
@@ -90,7 +90,6 @@ my skills in SQL, Python, Excel, Power BI and statistics.
               └─────────────────┘
 ````
 
----
 
 <!-- ======================= SKILLS ======================= -->
 
@@ -137,7 +136,6 @@ alt="Power BI" width="45" height="45"/>
 
 </p>
 
----
 
 ### 🗄️ Database & Querying
 
