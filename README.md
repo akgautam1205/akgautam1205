@@ -50,46 +50,6 @@ businesses make better decisions.
 🚀 Currently building practical **Data Analytics projects** and improving
 my skills in SQL, Python, Excel, Power BI and statistics.
 
----
-
-<!-- ======================= DATA ANALYTICS WORKFLOW ======================= -->
-
-## 🔎 My Data Analytics Workflow
-
-``
-              ┌─────────────────┐
-              │   Raw Data      │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │ Data Collection │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │  Data Cleaning  │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │ Transformation  │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │      EDA        │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │ Visualization   │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │ Business Insight│
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │  Recommendation │
-              └─────────────────┘
-````
-
 
 <!-- ======================= SKILLS ======================= -->
 
